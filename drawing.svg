@@ -32,6 +32,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2835"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -40,20 +47,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1453125"
+     inkscape:zoom="0.14878472"
      inkscape:cx="2880"
      inkscape:cy="1440.0001"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
-     inkscape:window-width="1718"
-     inkscape:window-height="1105"
-     inkscape:window-x="53"
-     inkscape:window-y="26"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1125"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:snap-grids="true"
-     inkscape:snap-page="true" />
+     inkscape:snap-page="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -70,7 +77,7 @@
      inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,3267.6403)"
+     transform="translate(0,3267.64)"
      sodipodi:insensitive="true"
      style="display:inline">
     <image
@@ -85,5 +92,32 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="stuff"
-     style="display:inline" />
+     style="display:inline">
+    <g
+       transform="matrix(1.25,0,0,-1.25,67.509187,4355.6324)"
+       id="g28">
+      <text
+         transform="matrix(1,0,0,-1,97.1,3258)"
+         id="text30">
+        <tspan
+           style="font-size:88px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+           x="0 51.568001 77.440002 124.256 169.224 219.73599 246.224 297.79199 347.51199 385.35199 420.20001 470.71201 508.28799 534.776 588.54401 614.76801 649.70398 675.57599 726.08801 752.57599 812.67999 863.19202 900.67999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan32">Place Poster Title Here</tspan>
+      </text>
+    </g>
+    <text
+       style="font-size:15px"
+       y="304.00327"
+       x="4902.6929"
+       id="text36">
+      <tspan
+         style="font-size:63.75px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1b1c13;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS"
+         x="4902.6929 4936.8628 4971.6064 4996.915 5031.7227 5056.4575 5075.5825 5109.0513 5143.7954 5169.104 5203.8477 5238.0176 5262.7529 5288.5078 5307.6963 5342.4404 5377.2476 5401.9829"
+         y="304.00327"
+         sodipodi:role="line"
+         id="tspan38">Enter authors here</tspan>
+    </text>
+  </g>
 </svg>
