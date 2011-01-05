@@ -17,7 +17,7 @@ sqlrun "
     group by x.mydate
     order by x.mydate
 
-" --instance warehouse --parse >> gb-vs-time.txt;
+" --instance warehouse --parse >> gb-vs-day.txt;
 
 #        (select pse.* from process_Step_executions pse where pse.ps_ps_id = 3601) gls
 #    select o.*, ii.seq_id from
