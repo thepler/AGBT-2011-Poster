@@ -1,0 +1,7 @@
+.libPaths(c("/gscuser/idas/illumina/illumina-pics/R2", .libPaths()))
+#library("ggplot2")
+#data <- read.table("illumina-pipeline-bases-tally.sql.out.clean.gb", header=TRUE, sep="\t")
+data <- read.table("gb-vs-day.txt", header=TRUE, sep="\t")
+data$day <- as.POSIXct(data$day, format="%Y-%m-%d")
+#ggplot(data, aes(Date, count)) + geom_line()
+plot(data)
