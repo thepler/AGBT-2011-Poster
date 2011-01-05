@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42082674"
-     inkscape:cx="1570.2705"
-     inkscape:cy="3532.3484"
+     inkscape:zoom="0.14878472"
+     inkscape:cx="2880"
+     inkscape:cy="1440.0004"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -119,5 +119,27 @@
          sodipodi:role="line"
          id="tspan38">Enter authors here</tspan>
     </text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2873"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Trebuchet MS;font-style:normal;font-weight:normal;font-size:12px;-inkscape-font-specification:Trebuchet MS;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion2875"><rect
+           id="rect2877"
+           width="1875.1925"
+           height="2204.5273"
+           x="13.442241"
+           y="549.4516"
+           style="-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara2879"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2885"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
+         id="flowRegion2887"><rect
+           id="rect2889"
+           width="1881.9137"
+           height="1720.6067"
+           x="26.884481"
+           y="549.4516"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
+         id="flowPara2891">The Genome Center at Washington University has a large-scale, high-throughput Illumina sequencing and primary analysis pipeline that has required the development of customized software to maximize throughput, increase quality control and minimize costs. In order to facilitate this system, we have developed a custom disk allocation system for managing data types and processing requirements, an automated interface to the SCS/HCS instrument software, a system for parallelizing the primary analysis and CASAVA secondary analysis by lane or sub lane (index), and a systematic way for generating quality control statistics. Analyzed run data and metrics are stored in a data-warehouse database and reported back to technicians and project managers through a number of custom views, including web status monitoring and automated reports. This analysis pipeline continues to evolve in response to challenges of scale due to new sequencing instruments, vendor code releases, system bottlenecks, and maintenance outages. </flowPara></flowRoot>  </g>
 </svg>
