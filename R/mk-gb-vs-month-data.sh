@@ -6,7 +6,7 @@ perl -e 'print "month\tgb\n"' > gb-vs-month.txt
 sqlrun "
 
     select concat(x.mydate,'-15'), sum( x.bases ) / 1000000000 From (
-        select to_char(pse.date_completed, 'yyyy-mm') mydate, ri.kilobases_read bases
+        select to_char(pse.date_completed, 'yyyy-mm') mydate, (ri.read_length * ii.filt_clusters) bases
         from index_illumina ii
         join read_illumina ri on ri.ii_seq_id = ii.seq_id
         join process_step_executions@oltp pse
