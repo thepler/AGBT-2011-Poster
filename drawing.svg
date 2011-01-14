@@ -46,6 +46,62 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3613"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3687"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3761"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3835"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3909"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3983"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4057"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4131"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -54,9 +110,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14878472"
+     inkscape:zoom="0.29756944"
      inkscape:cx="2880"
-     inkscape:cy="1440.0004"
+     inkscape:cy="2636.2919"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -137,7 +193,7 @@
            x="13.442241"
            y="549.4516"
            style="-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         id="flowPara2879"></flowPara></flowRoot>    <flowRoot
+         id="flowPara2879" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2885"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
@@ -149,11 +205,60 @@
            y="549.4516"
            style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
          id="flowPara2891">The Genome Center at Washington University has a large-scale, high-throughput Illumina sequencing and primary analysis pipeline that has required the development of customized software to maximize throughput, increase quality control and minimize costs. In order to facilitate this system, we have developed a custom disk allocation system for managing data types and processing requirements, an automated interface to the SCS/HCS instrument software, a system for parallelizing the primary analysis and CASAVA secondary analysis by lane or sub lane (index), and a systematic way for generating quality control statistics. Analyzed run data and metrics are stored in a data-warehouse database and reported back to technicians and project managers through a number of custom views, including web status monitoring and automated reports. This analysis pipeline continues to evolve in response to challenges of scale due to new sequencing instruments, vendor code releases, system bottlenecks, and maintenance outages. </flowPara></flowRoot>    <image
-       y="568.03552"
-       x="2892.1755"
+       y="544.5116"
+       x="1947.8582"
        id="image2963"
        height="971"
        width="883"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor.png" />
+    <image
+       y="2376.4805"
+       x="1942.4823"
+       id="image3615"
+       height="303"
+       width="1888"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report1.png" />
+    <image
+       y="936.26874"
+       x="2396.4893"
+       id="image3689"
+       height="961"
+       width="917"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor2.png" />
+    <image
+       y="1327.9784"
+       x="2893.5684"
+       id="image3837"
+       height="964"
+       width="931"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor3.png" />
+    <image
+       y="2824.9592"
+       x="1996.8441"
+       id="image3911"
+       height="100"
+       width="617"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report2.png" />
+    <image
+       y="2818.7383"
+       x="2897.7192"
+       id="image3985"
+       height="99"
+       width="677"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report3.png" />
+    <image
+       y="3011.8318"
+       x="1912.8822"
+       id="image4059"
+       height="600"
+       width="1000"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report4.png" />
+    <image
+       y="3042.0771"
+       x="3028.5881"
+       id="image4133"
+       height="600"
+       width="1000"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report5.png" />
   </g>
 </svg>
