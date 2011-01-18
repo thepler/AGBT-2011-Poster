@@ -1,6 +1,6 @@
 #!/bin/sh
 
-perl -e 'print "month\tgb\n"' > gb-vs-month.txt
+perl -e 'print "Month\tGigabases\n"' > gb-vs-month.txt
 
 #    select x.mydate, sum( x.bases ), sum( x.bases ) / 1000000000 From (
 sqlrun "

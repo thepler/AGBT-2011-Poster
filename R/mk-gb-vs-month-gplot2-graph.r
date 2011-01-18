@@ -12,7 +12,7 @@ library("Cairo")
 #data <- read.table("illumina-pipeline-bases-tally.sql.out.clean.gb", header=TRUE, sep="\t")
 cat(paste("Reading in data", "\n"))
 data <- read.table("gb-vs-month.txt", header=TRUE, sep="\t")
-data$month <- as.POSIXct(data$month, format="%Y-%m-%d")
+data$Month <- as.POSIXct(data$Month, format="%Y-%m-%d")
 cat(paste("Setting up Cairo SVG output", "\n"))
 svg(
     filename = "gb-vs-month.svg",
@@ -37,7 +37,7 @@ cat(paste("Plotting", "\n"))
 #)
 
 # Scatter Plot (as Bars)
-ggplot(data, aes(month, gb)) + geom_bar(stat="identity") + opts(title="Illumina Bases Count")
+ggplot(data, aes(Month, Gigabases)) + geom_bar(stat="identity") + opts(title="Illumina Sequencing Data Completed Primary Analysis")
 #ggplot(data, aes(as.character(month), gb)) + geom_bar() # Experiment DO NOT USE
 
 # Regular "R Plotting"
