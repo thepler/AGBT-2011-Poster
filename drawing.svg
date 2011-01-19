@@ -102,6 +102,55 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2882"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2979"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3053"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3853"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3878"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3903"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3928"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -110,9 +159,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29756944"
-     inkscape:cx="2880"
-     inkscape:cy="2636.2919"
+     inkscape:zoom="0.14878472"
+     inkscape:cx="1262.2479"
+     inkscape:cy="1264.6076"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -157,31 +206,20 @@
      inkscape:label="stuff"
      style="display:inline">
     <g
-       transform="matrix(1.25,0,0,-1.25,67.509187,4355.6324)"
+       transform="matrix(1.25,0,0,-1.25,-53.470976,4404.3605)"
        id="g28">
       <text
          transform="matrix(1,0,0,-1,97.1,3258)"
-         id="text30">
+         id="text30"
+         style="font-size:144px">
         <tspan
-           style="font-size:88px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+           style="font-size:144px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
            x="0"
            y="0"
            sodipodi:role="line"
            id="tspan32">Large-Scale Illumina Sequencing and Analysis</tspan>
       </text>
     </g>
-    <text
-       style="font-size:15px"
-       y="304.00327"
-       x="4902.6929"
-       id="text36">
-      <tspan
-         style="font-size:63.75px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1b1c13;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS"
-         x="4902.6929 4936.8628 4971.6064 4996.915 5031.7227 5056.4575 5075.5825 5109.0513 5143.7954 5169.104 5203.8477 5238.0176 5262.7529 5288.5078 5307.6963 5342.4404 5377.2476 5401.9829"
-         y="304.00327"
-         sodipodi:role="line"
-         id="tspan38">Enter authors here</tspan>
-    </text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2873"
@@ -205,60 +243,146 @@
            y="549.4516"
            style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
          id="flowPara2891">The Genome Center at Washington University has a large-scale, high-throughput Illumina sequencing and primary analysis pipeline that has required the development of customized software to maximize throughput, increase quality control and minimize costs. In order to facilitate this system, we have developed a custom disk allocation system for managing data types and processing requirements, an automated interface to the SCS/HCS instrument software, a system for parallelizing the primary analysis and CASAVA secondary analysis by lane or sub lane (index), and a systematic way for generating quality control statistics. Analyzed run data and metrics are stored in a data-warehouse database and reported back to technicians and project managers through a number of custom views, including web status monitoring and automated reports. This analysis pipeline continues to evolve in response to challenges of scale due to new sequencing instruments, vendor code releases, system bottlenecks, and maintenance outages. </flowPara></flowRoot>    <image
-       y="544.5116"
+       y="759.5874"
        x="1947.8582"
        id="image2963"
        height="971"
        width="883"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor.png" />
     <image
-       y="2376.4805"
-       x="1942.4823"
+       y="3593.0032"
+       x="1949.2034"
        id="image3615"
        height="303"
        width="1888"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report1.png" />
     <image
-       y="936.26874"
+       y="1151.3446"
        x="2396.4893"
        id="image3689"
        height="961"
        width="917"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor2.png" />
     <image
-       y="1327.9784"
+       y="1543.0542"
        x="2893.5684"
        id="image3837"
        height="964"
        width="931"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor3.png" />
     <image
-       y="2824.9592"
-       x="1996.8441"
+       y="4172.5439"
+       x="3013.4136"
        id="image3911"
        height="100"
        width="617"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report2.png" />
     <image
-       y="2818.7383"
-       x="2897.7192"
+       y="4991.3403"
+       x="3018.6995"
        id="image3985"
        height="99"
        width="677"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report3.png" />
     <image
-       y="3011.8318"
-       x="1912.8822"
+       y="4114.0957"
+       x="1958.2498"
        id="image4059"
        height="600"
        width="1000"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report4.png" />
     <image
-       y="3042.0771"
-       x="3028.5881"
+       y="4940.7935"
+       x="1943.1271"
        id="image4133"
        height="600"
        width="1000"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report5.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2854"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Trebuchet MS;font-style:normal;font-weight:normal;font-size:12px;-inkscape-font-specification:Trebuchet MS;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion2856"><rect
+           id="rect2858"
+           width="1609.7083"
+           height="396.54608"
+           x="4103.2437"
+           y="75.612602"
+           style="-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+         id="flowPara2860"></flowPara></flowRoot>    <flowRoot
+       transform="translate(3998.7307,-486.84461)"
+       xml:space="preserve"
+       id="flowRoot2885-2"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
+         id="flowRegion2887-0"><rect
+           id="rect2889-7"
+           width="1703.1753"
+           height="451.13971"
+           x="26.884481"
+           y="549.4516"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
+         id="flowPara2891-8">Todd Hepler, Craig S. Pohl, William Schroeder, Scott Abbott, Indraniel Das, David J. Dooling, Elaine R. Mardis, and Richard K. Wilson</flowPara><flowPara
+         id="flowPara2905">The Genome Center at Washington University in St. Louis School of Medicine</flowPara></flowRoot>    <image
+       y="2609.1917"
+       x="764.84955"
+       id="image2981"
+       height="918"
+       width="984"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/instrument1.png" />
+    <image
+       y="3131.1865"
+       x="127.53331"
+       id="image3055"
+       height="778"
+       width="864"
+       xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/recipe1.png" />
+    <text
+       y="2520.4709"
+       x="30.743689"
+       id="text30-5"
+       style="font-size:144px;display:inline">
+      <tspan
+         style="font-size:144px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="30.743689"
+         y="2520.4709"
+         sodipodi:role="line"
+         id="tspan32-7">Instrument Management</tspan>
+    </text>
+    <text
+       y="3994.8589"
+       x="138.48398"
+       id="text30-5-8"
+       style="font-size:72px;display:inline">
+      <tspan
+         style="font-size:72px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="138.48398"
+         y="3994.8589"
+         sodipodi:role="line"
+         id="tspan32-7-3">add recipies and assign to instruments</tspan>
+    </text>
+    <text
+       y="3598.1138"
+       x="1144.1395"
+       id="text30-5-8-4"
+       style="font-size:72px;display:inline">
+      <tspan
+         style="font-size:72px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="1144.1395"
+         y="3598.1138"
+         sodipodi:role="line"
+         id="tspan32-7-3-7">instrument status</tspan>
+    </text>
+    <text
+       y="700.44885"
+       x="1949.5391"
+       id="text30-5-9"
+       style="font-size:144px;display:inline">
+      <tspan
+         style="font-size:144px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="1949.5391"
+         y="700.44885"
+         sodipodi:role="line"
+         id="tspan32-7-5">Disk Management</tspan>
+    </text>
   </g>
 </svg>
