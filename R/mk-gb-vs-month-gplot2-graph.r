@@ -37,7 +37,7 @@ cat(paste("Plotting", "\n"))
 #)
 
 # Scatter Plot (as Bars)
-ggplot(data, aes(Month, Gigabases)) + geom_bar(stat="identity") + opts(title="Illumina Sequencing Data Completed CASAVA Analysis")
+ggplot(data, aes(Month, Gigabases)) + geom_bar(stat="identity") + opts(title="Illumina Sequencing Data Completed GERALD per Month")
 #ggplot(data, aes(as.character(month), gb)) + geom_bar() # Experiment DO NOT USE
 
 # Regular "R Plotting"
