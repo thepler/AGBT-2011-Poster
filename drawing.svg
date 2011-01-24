@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="4320"
-   height="4320"
+   width="5760"
+   height="5760"
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
@@ -151,6 +151,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2878"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2903"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -159,13 +173,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14878472"
-     inkscape:cx="1262.2479"
-     inkscape:cy="1264.6076"
+     inkscape:zoom="0.29756944"
+     inkscape:cx="5080.1759"
+     inkscape:cy="4896.3361"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     units="in"
+     units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1125"
      inkscape:window-x="0"
@@ -223,14 +237,14 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2873"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Trebuchet MS;font-style:normal;font-weight:normal;font-size:12px;-inkscape-font-specification:Trebuchet MS;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
          id="flowRegion2875"><rect
            id="rect2877"
            width="1875.1925"
            height="2204.5273"
            x="13.442241"
            y="549.4516"
-           style="-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
          id="flowPara2879" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2885"
@@ -250,7 +264,7 @@
        width="883"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor.png" />
     <image
-       y="3593.0032"
+       y="3189.7361"
        x="1949.2034"
        id="image3615"
        height="303"
@@ -301,28 +315,34 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2854"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Trebuchet MS;font-style:normal;font-weight:normal;font-size:12px;-inkscape-font-specification:Trebuchet MS;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
          id="flowRegion2856"><rect
            id="rect2858"
            width="1609.7083"
            height="396.54608"
            x="4103.2437"
            y="75.612602"
-           style="-inkscape-font-specification:Trebuchet MS;font-family:Trebuchet MS;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         id="flowPara2860"></flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
+         id="flowPara2860" /></flowRoot>    <flowRoot
        transform="translate(3998.7307,-486.84461)"
        xml:space="preserve"
        id="flowRoot2885-2"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
          id="flowRegion2887-0"><rect
            id="rect2889-7"
            width="1703.1753"
            height="451.13971"
            x="26.884481"
            y="549.4516"
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
-         id="flowPara2891-8">Todd Hepler, Craig S. Pohl, William Schroeder, Scott Abbott, Indraniel Das, David J. Dooling, Elaine R. Mardis, and Richard K. Wilson</flowPara><flowPara
-         id="flowPara2905">The Genome Center at Washington University in St. Louis School of Medicine</flowPara></flowRoot>    <image
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
+         id="flowPara2891-8"
+         style="font-weight:bold;-inkscape-font-specification:AlArabiya Bold">Todd Hepler, Craig S. Pohl, William Schroeder,</flowPara><flowPara
+         id="flowPara2922"
+         style="font-weight:bold;-inkscape-font-specification:AlArabiya Bold">Scott Abbott, Indraniel Das, David J. Dooling,</flowPara><flowPara
+         id="flowPara2920"
+         style="font-weight:bold;-inkscape-font-specification:AlArabiya Bold">Elaine R. Mardis, and Richard K. Wilson</flowPara><flowPara
+         id="flowPara2905"
+         style="font-style:italic;-inkscape-font-specification:AlArabiya Italic;font-size:64">The Genome Center at Washington University in St. Louis School of Medicine</flowPara></flowRoot>    <image
        y="2609.1917"
        x="764.84955"
        id="image2981"
@@ -340,9 +360,9 @@
        y="2520.4709"
        x="30.743689"
        id="text30-5"
-       style="font-size:144px;display:inline">
+       style="font-size:130;display:inline">
       <tspan
-         style="font-size:144px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         style="font-size:130;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
          x="30.743689"
          y="2520.4709"
          sodipodi:role="line"
@@ -376,13 +396,37 @@
        y="700.44885"
        x="1949.5391"
        id="text30-5-9"
-       style="font-size:144px;display:inline">
+       style="font-size:130;display:inline">
       <tspan
-         style="font-size:144px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         style="font-size:130;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
          x="1949.5391"
          y="700.44885"
          sodipodi:role="line"
          id="tspan32-7-5">Disk Management</tspan>
+    </text>
+    <text
+       y="3130.7388"
+       x="1966.1077"
+       id="text30-5-9-3"
+       style="font-size:130;display:inline">
+      <tspan
+         style="font-size:130;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="1966.1077"
+         y="3130.7388"
+         sodipodi:role="line"
+         id="tspan32-7-5-7">Reports: Production</tspan>
+    </text>
+    <text
+       y="3870.0618"
+       x="1945.6743"
+       id="text30-5-9-3-0"
+       style="font-size:130;display:inline">
+      <tspan
+         style="font-size:130;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="1945.6743"
+         y="3870.0618"
+         sodipodi:role="line"
+         id="tspan32-7-5-7-9">Reports: Resource Utilization</tspan>
     </text>
   </g>
 </svg>
