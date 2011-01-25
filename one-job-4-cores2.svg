@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="466.37595"
-   height="481.09213"
+   width="585.99768"
+   height="585.99768"
    id="svg4952"
    version="1.1"
    inkscape:version="0.47 r22583"
@@ -727,6 +727,13 @@
        fx="105.70395"
        fy="29.271845"
        r="46.185543" />
+    <inkscape:perspective
+       id="perspective2871"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -735,9 +742,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4283333"
-     inkscape:cx="300.25"
-     inkscape:cy="237.10147"
+     inkscape:zoom="1.4624631"
+     inkscape:cx="292.99884"
+     inkscape:cy="292.99884"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -759,7 +766,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -767,7 +774,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.24999999,-452.36218)">
+     transform="translate(49.159932,-402.76588)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#8dc63f;fill-opacity:1;fill-rule:nonzero;stroke-width:0.34400001000000002;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2983"
+       sodipodi:cx="253.7923"
+       sodipodi:cy="281.90894"
+       sodipodi:rx="253.7923"
+       sodipodi:ry="253.7923"
+       d="m 507.58459,281.90894 c 0,140.16561 -113.62668,253.79229 -253.79229,253.79229 C 113.62668,535.70123 0,422.07455 0,281.90894 0,141.74332 113.62668,28.116638 253.7923,28.116638 c 140.16561,0 253.79229,113.626682 253.79229,253.792302 z"
+       transform="matrix(1.1544828,0,0,1.1544828,-49.159932,370.3057)" />
     <g
        transform="translate(-37.899875,399.6749)"
        id="layer1-1"
