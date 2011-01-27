@@ -38,7 +38,7 @@ cat(paste("Plotting", "\n"))
 #)
 
 # Scatter Plot (as Bars)
-ggplot(data, aes(Month, Days)) + geom_bar(stat="identity") + opts(title="Illumina Processing Time (Average Wallclock Days per Run) by Month")
+ggplot(data, aes(Month, Days)) + geom_bar(stat="identity") + opts(title="Processing Time (Average Wallclock Days per Run) by Month")
 #ggplot(data, aes(as.character(month), gb)) + geom_bar() # Experiment DO NOT USE
 
 # Regular "R Plotting"
