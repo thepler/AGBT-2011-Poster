@@ -163,7 +163,6 @@ my @start_run = map {
     [ $d, $_ ];
 } @r;
 @start_run = sort { $a->[0] cmp $b->[0] } @start_run;
-my %month;
 for my $sr (@start_run) {
     my $r = $sr->[1] or die;
     next if $r->flow_cell_id eq '3230';
@@ -180,14 +179,28 @@ for my $sr (@start_run) {
         next;
     }
     $fh1->print("$start $end $diff ($fc)\n");
-    my $month = ( $start =~ /(^\d\d\d\d-\d\d).*/ )[0] or die;
-    $month{$month} ||= [];
-    push @{ $month{$month} }, $diff;
 #    print analysis_start_date($r) . " ";
 #    print( (analysis_end_date($r) || '<still running>') . "\n");
 }
 $fh1->close or die;
 $filtered_fh->close or die;
+
+$fh1 = file('./run-start-end-dates.txt')->openr;
+my %month;
+
+# get the same time frame as gb-vs-month.txt
+$month{$_} = []
+    for (
+        qw(2006-12 2007-01 2007-02 2007-03 2007-04 2007-05 2007-06 2007-07 2007-08)
+    );
+
+while ( scalar( my $line  = $fh1->getline)) {
+    chomp $line;
+    my ($start, $end, $diff, $fc) = split(/\t/, $line);
+    my $month = ( $start =~ /(^\d\d\d\d-\d\d).*/ )[0] or die;
+    $month{$month} ||= [];
+    push @{ $month{$month} }, $diff;
+}
 
 my $fh2 = file('./days-vs-month.txt')->openw or die;
 $fh2->print("Month\tDays\n");
