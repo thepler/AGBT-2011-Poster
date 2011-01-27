@@ -1328,6 +1328,41 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3956"
+       inkscape:persp3d-origin="237.5 : 80 : 1"
+       inkscape:vp_z="475 : 120 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 120 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4039"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4064"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4271"
+       inkscape:persp3d-origin="140.625 : 48.333333 : 1"
+       inkscape:vp_z="281.25 : 72.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 72.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4485"
+       inkscape:persp3d-origin="215 : 48.333333 : 1"
+       inkscape:vp_z="430 : 72.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 72.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1427,22 +1462,22 @@
        width="1888"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/report1.png" />
     <image
-       y="2703.2871"
-       x="1954.9738"
+       y="2515.0957"
+       x="1961.6949"
        id="image3640"
        height="918"
        width="815"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor4.png" />
     <image
-       y="2843.1345"
-       x="2394.8125"
+       y="2654.9431"
+       x="2401.5334"
        id="image2963"
        height="971"
        width="883"
        xlink:href="file:///gscuser/thepler/git/AGBT-2011-Poster/disk-allocation-monitor.png" />
     <image
-       y="3058.6667"
-       x="2870.0444"
+       y="2870.4753"
+       x="2876.7654"
        id="image3837"
        height="964"
        width="931"
@@ -1558,14 +1593,14 @@
          id="tspan32-7-3-7">instrument status</tspan>
     </text>
     <text
-       y="2669.7371"
-       x="1949.5391"
+       y="2481.5457"
+       x="1956.2603"
        id="text30-5-9"
        style="font-size:130px;display:inline">
       <tspan
          style="font-size:130px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
-         x="1949.5391"
-         y="2669.7371"
+         x="1956.2603"
+         y="2481.5457"
          sodipodi:role="line"
          id="tspan32-7-5">Disk Management</tspan>
     </text>
@@ -1604,9 +1639,15 @@
          y="5108.9282"
          sodipodi:role="line"
          id="tspan32-7-5-5-1">o Integrate CASAVA 1.8</tspan>
+      <tspan
+         style="font-size:72px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="3897.8599"
+         y="5198.9282"
+         sodipodi:role="line"
+         id="tspan4081">o Further analyze compute resources and optimize</tspan>
     </text>
     <g
-       transform="matrix(2.9754552,0,0,2.9754552,3651.4039,3269.2512)"
+       transform="matrix(2.9754552,0,0,2.9754552,1750.7189,4505.1628)"
        id="layer1-3"
        inkscape:label="Layer 1">
       <path
@@ -4178,6 +4219,437 @@
              width="1"
              height="1" />
         </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(4.5234428,0,0,4.5234428,3918.5923,4492.4805)"
+       class="graph"
+       id="graph0">
+      <title
+         id="title3825">_anonymous_0</title>
+      <polygon
+         id="polygon3827"
+         points="-4,-188 376,-188 376,4 -4,4 -4,4 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <!-- library -->
+      <g
+         class="node"
+         id="node1">
+        <title
+           id="title3830">library</title>
+        <polygon
+           id="polygon3832"
+           points="157,-184 217,-184 217,-148 157,-148 157,-148 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3834"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-167.39999"
+           x="187">library</text>
+      </g>
+      <!-- sample -->
+      <g
+         class="node"
+         id="node2">
+        <title
+           id="title3837">sample</title>
+        <polygon
+           id="polygon3839"
+           points="253,-184 317,-184 317,-148 253,-148 253,-148 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3841"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-167.39999"
+           x="285">sample</text>
+      </g>
+      <!-- library&#45;&gt;sample -->
+      <g
+         class="edge"
+         id="edge18">
+        <title
+           id="title3844">library-&gt;sample</title>
+        <path
+           id="path3846"
+           d="m 227,-166 c 9,0 17,0 26,0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3848"
+           points="217,-161.5 222,-166 217,-166 217,-166 217,-166 222,-166 217,-170.5 227,-166 227,-166 227,-166 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- flowcell -->
+      <g
+         class="node"
+         id="node3">
+        <title
+           id="title3851">flowcell</title>
+        <polygon
+           id="polygon3853"
+           points="1,-184 70,-184 70,-148 1,-148 1,-148 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3855"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-167.39999"
+           x="35">flowcell</text>
+      </g>
+      <!-- analysis -->
+      <g
+         class="node"
+         id="node4">
+        <title
+           id="title3858">analysis</title>
+        <polygon
+           id="polygon3860"
+           points="0,-110 71,-110 71,-74 0,-74 0,-74 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3862"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-93.400002"
+           x="35">analysis</text>
+      </g>
+      <!-- flowcell&#45;&gt;analysis -->
+      <g
+         class="edge"
+         id="edge2">
+        <title
+           id="title3865">flowcell-&gt;analysis</title>
+        <path
+           id="path3867"
+           d="m 35,-148 c 0,12 0,26 0,38"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <!-- lane -->
+      <g
+         class="node"
+         id="node5">
+        <title
+           id="title3870">lane</title>
+        <polygon
+           id="polygon3872"
+           points="115,-110 169,-110 169,-74 115,-74 115,-74 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3874"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-93.400002"
+           x="142">lane</text>
+      </g>
+      <!-- analysis&#45;&gt;lane -->
+      <g
+         class="edge"
+         id="edge4">
+        <title
+           id="title3877">analysis-&gt;lane</title>
+        <path
+           id="path3879"
+           d="m 71,-92 c 11,0 23,0 34,0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3881"
+           points="115,-96.5 110,-92 115,-92 115,-92 115,-92 110,-92 115,-87.5 105,-92.0001 105,-92.0001 105,-92.0001 "
+           style="fill:#000000;stroke:#000000" />
+        <text
+           id="text3883"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-95.900002"
+           x="92">1..8</text>
+      </g>
+      <!-- lane&#45;&gt;library -->
+      <g
+         class="edge"
+         id="edge10">
+        <title
+           id="title3886">lane-&gt;library</title>
+        <path
+           id="path3888"
+           d="m 158,-119 c 6,-9 13,-20 18,-29"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3890"
+           points="156.934,-107.815 155.428,-114.371 153,-110 153,-110 153,-110 155.428,-114.371 149.066,-112.185 157.856,-118.742 157.856,-118.742 157.856,-118.742 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- basecall -->
+      <g
+         class="node"
+         id="node6">
+        <title
+           id="title3893">basecall</title>
+        <polygon
+           id="polygon3895"
+           points="159,-36 229,-36 229,0 159,0 159,0 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3897"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-19.4"
+           x="194">basecall</text>
+      </g>
+      <!-- lane&#45;&gt;basecall -->
+      <g
+         class="edge"
+         id="edge6">
+        <title
+           id="title3900">lane-&gt;basecall</title>
+        <path
+           id="path3902"
+           d="m 155,-74 c 6,9 14,20 20,30"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3904"
+           points="184.6,-38.7 178,-40 181,-36 181,-36 181,-36 178,-40 177.4,-33.3 175,-44 175,-44 175,-44 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- index -->
+      <g
+         class="node"
+         id="node7">
+        <title
+           id="title3907">index</title>
+        <polygon
+           id="polygon3909"
+           points="205,-110 259,-110 259,-74 205,-74 205,-74 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3911"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-93.400002"
+           x="232">index</text>
+      </g>
+      <!-- lane&#45;&gt;index -->
+      <g
+         class="edge"
+         id="edge8">
+        <title
+           id="title3914">lane-&gt;index</title>
+        <path
+           id="path3916"
+           d="m 169,-92 c 9,0 17,0 26,0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3918"
+           points="205,-96.5 200,-92 205,-92 205,-92 205,-92 200,-92 205,-87.5 195,-92.0001 195,-92.0001 195,-92.0001 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- basecall&#45;&gt;index -->
+      <g
+         class="edge"
+         id="edge12">
+        <title
+           id="title3921">basecall-&gt;index</title>
+        <path
+           id="path3923"
+           d="m 203,-36 c 6,-12 14,-26 20,-38"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <!-- index&#45;&gt;library -->
+      <g
+         class="edge"
+         id="edge16">
+        <title
+           id="title3926">index-&gt;library</title>
+        <path
+           id="path3928"
+           d="m 216,-119 c -4,-7 -9,-14 -13,-20"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3930"
+           points="224.934,-112.185 218.572,-114.371 221,-110 221,-110 221,-110 218.572,-114.371 217.066,-107.815 216.144,-118.742 216.144,-118.742 216.144,-118.742 "
+           style="fill:#000000;stroke:#000000" />
+        <polygon
+           id="polygon3932"
+           points="194.066,-145.815 200.428,-143.629 198,-148 198,-148 198,-148 200.428,-143.629 201.934,-150.185 202.856,-139.258 202.856,-139.258 202.856,-139.258 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- read -->
+      <g
+         class="node"
+         id="node8">
+        <title
+           id="title3935">read</title>
+        <polygon
+           id="polygon3937"
+           points="318,-110 372,-110 372,-74 318,-74 318,-74 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text3939"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-93.400002"
+           x="345">read</text>
+      </g>
+      <!-- index&#45;&gt;read -->
+      <g
+         class="edge"
+         id="edge14">
+        <title
+           id="title3942">index-&gt;read</title>
+        <path
+           id="path3944"
+           d="m 259,-92 c 15,0 33,0 49,0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon3946"
+           points="318,-96.5 313,-92 318,-92 318,-92 318,-92 313,-92 318,-87.5 308,-92.0001 308,-92.0001 308,-92.0001 "
+           style="fill:#000000;stroke:#000000" />
+        <text
+           id="text3948"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-95.900002"
+           x="289">1..1,2</text>
+      </g>
+    </g>
+    <text
+       y="4164.0396"
+       x="1943.236"
+       id="text30-5-9-3-7"
+       style="font-size:130px;display:inline">
+      <tspan
+         style="font-size:130px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="1943.236"
+         y="4164.0396"
+         sodipodi:role="line"
+         id="tspan32-7-5-7-9">Pipieline</tspan>
+    </text>
+    <text
+       y="2465.0571"
+       x="3880.9248"
+       id="text30-5-9-3-7-7"
+       style="font-size:130px;display:inline">
+      <tspan
+         style="font-size:130px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+         x="3880.9248"
+         y="2465.0571"
+         sodipodi:role="line"
+         id="tspan32-7-5-7-9-1">Schema</tspan>
+    </text>
+    <g
+       transform="matrix(5.3137744,0,0,5.3137744,3910.5926,3307.5441)"
+       class="graph"
+       id="graph0-4">
+      <title
+         id="title4423">_anonymous_0</title>
+      <polygon
+         id="polygon4425"
+         points="340,-112 340,4 -4,4 -4,4 -4,-112 "
+         style="fill:#ffffff;stroke:#ffffff" />
+      <!-- disk_volume -->
+      <g
+         class="node"
+         id="node1-8">
+        <title
+           id="title4428">disk_volume</title>
+        <polygon
+           id="polygon4430"
+           points="205,-108 205,-72 106,-72 106,-72 106,-108 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text4432"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-91.400002"
+           x="155">disk-volume</text>
+      </g>
+      <!-- disk_allocation -->
+      <g
+         class="node"
+         id="node3-7">
+        <title
+           id="title4435">disk_allocation</title>
+        <polygon
+           id="polygon4437"
+           points="336,-108 336,-72 222,-72 222,-72 222,-108 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text4439"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-91.400002"
+           x="279">disk-allocation</text>
+      </g>
+      <!-- disk_volume&#45;&gt;disk_allocation -->
+      <g
+         class="edge"
+         id="edge8-3">
+        <title
+           id="title4442">disk_volume-&gt;disk_allocation</title>
+        <path
+           id="path4444"
+           d="m 205,-90 c 2,0 5,0 7,0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4446"
+           points="217,-90 222,-90 222,-90 222,-90 217,-90 222,-85.5 212,-90.0001 212,-90.0001 212,-90.0001 222,-94.5 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- disk_group -->
+      <g
+         class="node"
+         id="node2-3">
+        <title
+           id="title4449">disk_group</title>
+        <polygon
+           id="polygon4451"
+           points="88,-108 88,-72 0,-72 0,-72 0,-108 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text4453"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-91.400002"
+           x="44">disk-group</text>
+      </g>
+      <!-- disk_group&#45;&gt;disk_volume -->
+      <g
+         class="edge"
+         id="edge2-5">
+        <title
+           id="title4456">disk_group-&gt;disk_volume</title>
+        <path
+           id="path4458"
+           d="m 88,-90 c 3,0 5,0 8,0"
+           style="fill:none;stroke:#000000" />
+        <polygon
+           id="polygon4460"
+           points="101,-90 106,-90 106,-90 106,-90 101,-90 106,-85.5 96,-90.0001 96,-90.0001 96,-90.0001 106,-94.5 "
+           style="fill:#000000;stroke:#000000" />
+      </g>
+      <!-- event -->
+      <g
+         class="node"
+         id="node4-0">
+        <title
+           id="title4463">event</title>
+        <polygon
+           id="polygon4465"
+           points="189,-36 189,0 133,0 133,0 133,-36 "
+           style="fill:#ffffff;stroke:#000000" />
+        <text
+           id="text4467"
+           style="font-size:14px;text-anchor:middle;font-family:Times New Roman"
+           y="-19.4"
+           x="161">event</text>
+      </g>
+      <!-- disk_allocation&#45;&gt;event -->
+      <g
+         class="edge"
+         id="edge4-1">
+        <title
+           id="title4470">disk_allocation-&gt;event</title>
+        <path
+           id="path4472"
+           d="m 249,-72 c -18,11 -42,25 -60,37"
+           style="fill:none;stroke:#000000" />
+      </g>
+      <!-- event&#45;&gt;disk_group -->
+      <g
+         class="edge"
+         id="edge6-4">
+        <title
+           id="title4475">event-&gt;disk_group</title>
+        <path
+           id="path4477"
+           d="M 133,-36 C 115,-47 92,-61 74,-72"
+           style="fill:none;stroke:#000000" />
       </g>
     </g>
   </g>
