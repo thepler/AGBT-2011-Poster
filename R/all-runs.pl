@@ -195,6 +195,7 @@ use List::AllUtils qw(sum);
 for my $mon ( sort keys %month ) {
     my @all = @{ $month{$mon} };
     my $avg = sum(@all) / scalar(@all);
+    $mon .= '-15';  # to make my R happy
     $fh2->print("$mon\t$avg\n");
 }
 $fh2->close or die;
