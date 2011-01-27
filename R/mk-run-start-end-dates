@@ -175,42 +175,14 @@ for my $sr (@start_run) {
     # in days
     $diff = $diff / (60 * 60 * 24);
     if ( $diff < 0.1 or $diff > 20 ) {
-        $filtered_fh->print("$start $end $diff ($fc)\n");
+        $filtered_fh->print("$start\t$end\t$diff\t($fc)\n");
         next;
     }
-    $fh1->print("$start $end $diff ($fc)\n");
+    $fh1->print("$start\t$end\t$diff\t($fc)\n");
 #    print analysis_start_date($r) . " ";
 #    print( (analysis_end_date($r) || '<still running>') . "\n");
 }
 $fh1->close or die;
 $filtered_fh->close or die;
-
-$fh1 = file('./run-start-end-dates.txt')->openr;
-my %month;
-
-# get the same time frame as gb-vs-month.txt
-$month{$_} = []
-    for (
-        qw(2006-12 2007-01 2007-02 2007-03 2007-04 2007-05 2007-06 2007-07 2007-08)
-    );
-
-while ( scalar( my $line  = $fh1->getline)) {
-    chomp $line;
-    my ($start, $end, $diff, $fc) = split(/\t/, $line);
-    my $month = ( $start =~ /(^\d\d\d\d-\d\d).*/ )[0] or die;
-    $month{$month} ||= [];
-    push @{ $month{$month} }, $diff;
-}
-
-my $fh2 = file('./days-vs-month.txt')->openw or die;
-$fh2->print("Month\tDays\n");
-use List::AllUtils qw(sum);
-for my $mon ( sort keys %month ) {
-    my @all = @{ $month{$mon} };
-    my $avg = sum(@all) / scalar(@all);
-    $mon .= '-15';  # to make my R happy
-    $fh2->print("$mon\t$avg\n");
-}
-$fh2->close or die;
 
 
