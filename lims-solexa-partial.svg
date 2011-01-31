@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="636.23285"
-   height="422.28754"
+   height="363.43158"
    id="svg3471"
    version="1.1"
    inkscape:version="0.47 r22583"
@@ -358,6 +358,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3060"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -366,9 +373,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0294229"
+     inkscape:zoom="2.358078"
      inkscape:cx="318.11642"
-     inkscape:cy="211.14377"
+     inkscape:cy="164.75282"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -385,7 +392,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -393,7 +400,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-61.883585,83.192708)">
+     transform="translate(-61.883585,-79.91525)">
     <path
        style="opacity:0.75;fill:#dd55ff;fill-opacity:0.2;stroke:#ffffff;stroke-width:0.83125985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.43575416;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
        d="m 66.921085,85.671393 c -2.56946,0 -4.62187,2.07898 -4.62187,4.64844 l 0,243.710927 c 0,2.56947 2.05242,4.64842 4.62187,4.64844 l 282.492195,0 343.13441,-2.12812 c 2.7378,0 4.9406,-2.20279 4.9406,-4.94063 l 0.2125,-241.290617 c 0,-2.56947 -2.0524,-4.64844 -4.6219,-4.64844 l -626.157805,0 z"
@@ -402,15 +409,15 @@
     <text
        transform="matrix(0.0029352,0.99999569,-0.99999569,0.0029352,0,0)"
        id="text4296"
-       y="-676.74695"
-       x="143.30367"
+       y="-671.33313"
+       x="348.50604"
        style="font-size:10.20151329px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          style="font-size:17.00230217px"
-         y="-676.74695"
-         x="143.30367"
+         y="-671.33313"
+         x="348.50604"
          id="tspan4298"
-         sodipodi:role="line">Illumina Analysis</tspan></text>
+         sodipodi:role="line">Disk Mgmt.</tspan></text>
     <path
        transform="matrix(1.0832913,0,0,1.1834045,51.993005,-199.81416)"
        d="m 514.39709,256.33948 c 0,3.96146 -3.67018,7.17287 -8.19757,7.17287 -4.52739,0 -8.19756,-3.21141 -8.19756,-7.17287 0,-3.96147 3.67017,-7.17287 8.19756,-7.17287 4.52739,0 8.19757,3.2114 8.19757,7.17287 z"
@@ -1234,52 +1241,40 @@
          dy="0 2.4635348"
          style="font-style:italic">Da</tspan></text>
     <rect
-       ry="2.9974594"
-       y="-82.939262"
-       x="64.41243"
-       height="163.5061"
-       width="365.58658"
+       ry="1.8728858"
+       y="340.92065"
+       x="63.065952"
+       height="102.16261"
+       width="632.79413"
        id="rect4243"
-       style="fill:#aaffaa;fill-opacity:0.22745098;stroke:#ffffff;stroke-width:0.50689143;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.43575416;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
-    <text
-       xml:space="preserve"
-       style="font-size:10.19996929px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       x="-47.442097"
-       y="85.664612"
-       id="text4304"
-       transform="matrix(-0.01460549,-0.99989333,0.99989333,-0.01460549,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4306"
-         x="-47.442097"
-         y="85.664612"
-         style="font-size:16.99995804px">Disk Mgmt.</tspan></text>
+       style="fill:#aaffaa;fill-opacity:0.22745098;stroke:#ffffff;stroke-width:0.52714497;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.43575416;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
     <rect
        style="fill:#ffffff;fill-opacity:0.49803922;stroke:#000000;stroke-width:0.37833863;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        id="rect8655"
        width="57.396675"
        height="38.600502"
-       x="94.185257"
-       y="-50.598499" />
+       x="138.82108"
+       y="377.08398" />
     <text
        xml:space="preserve"
        style="font-size:8.58642483px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       x="124.51899"
-       y="-39.10006"
+       x="169.58444"
+       y="384.50528"
        id="text8657"
        sodipodi:linespacing="125%"
        transform="scale(0.99046686,1.0096249)"><tspan
          sodipodi:role="line"
          id="tspan8828"
-         x="125.88577"
-         y="-39.10006">allocate </tspan><tspan
+         x="170.95123"
+         y="384.50528">allocate </tspan><tspan
          sodipodi:role="line"
-         x="124.51899"
-         y="-28.367029"
+         x="169.58444"
+         y="395.23831"
          id="tspan3244">disk space</tspan><tspan
          sodipodi:role="line"
          id="tspan8830"
-         x="124.51899"
-         y="-17.633997"
+         x="169.58444"
+         y="405.97134"
          dy="0 0 1.0369096 -2.0738192">(<tspan
    style="font-style:italic"
    id="tspan8832"
@@ -1289,100 +1284,40 @@
        id="rect8663"
        width="104.12847"
        height="15.889636"
-       x="184.27286"
-       y="-78.377495" />
+       x="228.90865"
+       y="349.30499" />
     <text
        xml:space="preserve"
        style="font-size:8.35643291px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       x="236.71494"
-       y="-67.637871"
+       x="281.35074"
+       y="360.04462"
        id="text8665"><tspan
          sodipodi:role="line"
-         x="236.71494"
-         y="-67.637871"
+         x="281.35074"
+         y="360.04462"
          id="tspan8834"
          dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">move allocation (<tspan
    style="font-style:italic"
    id="tspan8836"
    dy="0 1.6385163 -1.6385163">Dm)</tspan></tspan></text>
     <path
-       transform="matrix(0.8860237,0,0,0.957766,-292.93186,-228.90731)"
-       d="m 514.39709,256.33948 c 0,3.96146 -3.67018,7.17287 -8.19757,7.17287 -4.52739,0 -8.19756,-3.21141 -8.19756,-7.17287 0,-3.96147 3.67017,-7.17287 8.19756,-7.17287 4.52739,0 8.19757,3.2114 8.19757,7.17287 z"
-       sodipodi:ry="7.1728678"
-       sodipodi:rx="8.1975632"
-       sodipodi:cy="256.33948"
-       sodipodi:cx="506.19952"
-       id="path8908"
-       style="fill:#afe9c6;fill-opacity:0.40782124;stroke:#78bb3a;stroke-width:0.73199999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91061455;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#37c871;fill-opacity:0.75977652;stroke:#1f5f15;stroke-width:0.73199999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91061455;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="path8910"
-       sodipodi:cx="506.19952"
-       sodipodi:cy="256.33948"
-       sodipodi:rx="8.1975632"
-       sodipodi:ry="7.1728678"
-       d="m 514.39709,256.33948 c 0,3.96146 -3.67018,7.17287 -8.19757,7.17287 -4.52739,0 -8.19756,-3.21141 -8.19756,-7.17287 0,-3.96147 3.67017,-7.17287 8.19756,-7.17287 4.52739,0 8.19757,3.2114 8.19757,7.17287 z"
-       transform="matrix(0.885978,0,0,0.9577518,-292.90782,-212.33959)" />
-    <text
-       xml:space="preserve"
-       style="font-size:9.97262478px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       x="240.18088"
-       y="20.31782"
-       id="text8935"><tspan
-         sodipodi:role="line"
-         x="240.18088"
-         y="20.31782"
-         id="tspan8939">= disk mgmt. for solexa run</tspan></text>
-    <text
-       id="text8947"
-       y="37.060284"
-       x="240.96036"
-       style="font-size:9.97262478px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       xml:space="preserve"><tspan
-         y="37.060284"
-         x="240.96036"
-         sodipodi:role="line"
-         id="tspan8953">= disk mgmt. for create SRF</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:9.97262478px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       x="260.31668"
-       y="71.802773"
-       id="text7645"><tspan
-         id="tspan7649"
-         sodipodi:role="line"
-         x="260.31668"
-         y="71.802773">= disk mgmt. make library start site</tspan></text>
-    <path
-       transform="matrix(0.885978,0,0,0.9577518,-293.20782,-177.59709)"
-       d="m 514.39709,256.33948 c 0,3.96146 -3.67018,7.17287 -8.19757,7.17287 -4.52739,0 -8.19756,-3.21141 -8.19756,-7.17287 0,-3.96147 3.67017,-7.17287 8.19756,-7.17287 4.52739,0 8.19757,3.2114 8.19757,7.17287 z"
-       sodipodi:ry="7.1728678"
-       sodipodi:rx="8.1975632"
-       sodipodi:cy="256.33948"
-       sodipodi:cx="506.19952"
-       id="path7657"
-       style="fill:#d4ff2a;fill-opacity:0.40784314;stroke:#1f5f15;stroke-width:0.73199999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91061455;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       sodipodi:type="arc" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.69636941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);display:inline"
-       d="m 152.68917,-31.629122 17.49288,0"
+       d="m 197.32497,396.05338 17.49288,0"
        id="path11970" />
     <path
        id="path12499"
-       d="m 303.89257,-31.629122 17.49288,0"
+       d="m 348.52837,396.05338 17.49288,0"
        style="fill:none;stroke:#000000;stroke-width:0.69636941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);display:inline" />
     <text
        id="text3471"
-       y="54.011028"
-       x="247.01352"
+       y="361.25714"
+       x="577.75427"
        style="font-size:9.97262478px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="54.011028"
-         x="248.60095"
+         y="361.25714"
+         x="577.75427"
          sodipodi:role="line"
-         id="tspan3473">= disk mgmt. for sequence file </tspan></text>
+         id="tspan3473">= disk allocation for event</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#00ff00;fill-opacity:0.40784314;stroke:#1f5f15;stroke-width:0.73199999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91061455;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
@@ -1392,25 +1327,25 @@
        sodipodi:rx="8.1975632"
        sodipodi:ry="7.1728678"
        d="m 514.39709,256.33948 c 0,3.96146 -3.67018,7.17287 -8.19757,7.17287 -4.52739,0 -8.19756,-3.21141 -8.19756,-7.17287 0,-3.96147 3.67017,-7.17287 8.19756,-7.17287 4.52739,0 8.19757,3.2114 8.19757,7.17287 z"
-       transform="matrix(0.885978,0,0,0.9577518,-292.90782,-195.38884)" />
+       transform="matrix(0.885978,0,0,0.9577518,53.512211,112.20572)" />
     <path
        id="path2707"
-       d="m 122.48072,-50.103672 0,-8.47743 225.89543,-0.56316 0.10206,9.09167"
+       d="m 167.11652,377.57883 0,-8.47743 225.89544,-0.56316 0.10206,9.09167"
        style="fill:none;stroke:#000000;stroke-width:0.56922585px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);display:inline"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.69636941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);display:inline"
-       d="m 228.91878,-31.631142 17.49288,0"
+       d="m 273.55458,396.05136 17.49288,0"
        id="path2709"
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cccs"
        style="fill:none;stroke:#000000;stroke-width:0.69636941px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);display:inline"
-       d="m 193.08844,-12.213992 -0.001,7.9808999 155.22623,0.84313 0.10202,-9.1342999"
+       d="m 237.72424,415.46851 -0.001,7.9809 155.22624,0.84313 0.10202,-9.1343"
        id="path2736" />
     <rect
-       y="-50.598499"
-       x="171.62527"
+       y="377.08398"
+       x="216.26106"
        height="38.600502"
        width="57.396675"
        id="rect3246"
@@ -1418,20 +1353,20 @@
     <text
        xml:space="preserve"
        style="font-size:8.35643291px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       x="197.79605"
-       y="-38.985462"
+       x="242.43184"
+       y="388.69702"
        id="text2713"><tspan
          sodipodi:role="line"
-         x="199.12622"
-         y="-38.985462"
+         x="243.76201"
+         y="388.69702"
          id="tspan2715">reallocate </tspan><tspan
          sodipodi:role="line"
-         x="197.79605"
-         y="-28.539921"
+         x="242.43184"
+         y="399.14255"
          id="tspan3242">allocation</tspan><tspan
          sodipodi:role="line"
-         x="197.79605"
-         y="-18.094379"
+         x="242.43184"
+         y="409.5881"
          id="tspan2717"
          dy="0 0">(<tspan
    style="font-style:italic"
@@ -1442,33 +1377,33 @@
        id="rect3250"
        width="57.396675"
        height="38.600502"
-       x="246.64523"
-       y="-50.598499" />
+       x="291.28107"
+       y="377.08398" />
     <text
        id="text2695"
-       y="-39.105213"
-       x="275.19229"
+       y="388.57727"
+       x="319.82812"
        style="font-size:8.35643291px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
          id="tspan2697"
-         y="-39.105213"
-         x="276.52246"
+         y="388.57727"
+         x="321.15829"
          sodipodi:role="line">archive </tspan><tspan
-         y="-28.659672"
-         x="275.19229"
+         y="399.0228"
+         x="319.82812"
          sodipodi:role="line"
          id="tspan3240">allocation</tspan><tspan
          dy="0 0"
          id="tspan2699"
-         y="-18.21413"
-         x="275.19229"
+         y="409.46835"
+         x="319.82812"
          sodipodi:role="line">(<tspan
    dy="0 2.2678423 -2.2678423"
    id="tspan2701"
    style="font-style:italic">Db)</tspan></tspan></text>
     <rect
-       y="-50.598499"
-       x="321.66525"
+       y="377.08398"
+       x="366.30109"
        height="38.600502"
        width="57.396675"
        id="rect3252"
@@ -1476,21 +1411,21 @@
     <text
        xml:space="preserve"
        style="font-size:8.45282173px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-       x="353.80371"
-       y="-38.940178"
+       x="398.95651"
+       y="383.84546"
        id="text8673"
        transform="scale(0.98855031,1.0115823)"><tspan
          sodipodi:role="line"
-         x="355.14923"
-         y="-38.940178"
+         x="400.30203"
+         y="383.84546"
          id="tspan8675">delete </tspan><tspan
          sodipodi:role="line"
-         x="353.80371"
-         y="-28.374151"
+         x="398.95651"
+         y="394.4115"
          id="tspan3238">allocation</tspan><tspan
          sodipodi:role="line"
-         x="353.80371"
-         y="-17.808125"
+         x="398.95651"
+         y="404.97751"
          id="tspan8838"
          dy="0 0 2.0415514 -2.0415514">(<tspan
    style="font-style:italic"
@@ -1518,5 +1453,17 @@
          x="390.42392"
          sodipodi:role="line"
          id="tspan2873-4">FastQC</tspan></text>
+    <text
+       transform="matrix(0.0029352,0.99999569,-0.99999569,0.0029352,0,0)"
+       id="text4296-3"
+       y="-678.79456"
+       x="132.09386"
+       style="font-size:10.20151329px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-size:17.00230217px"
+         y="-678.79456"
+         x="132.09386"
+         id="tspan4298-2"
+         sodipodi:role="line">Illumina Analysis</tspan></text>
   </g>
 </svg>
