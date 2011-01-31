@@ -5,11 +5,8 @@ digraph {
   disk_volume  [label="disk-volume"];
   disk_group   [label="disk-group"];
   disk_allocation [label="disk-allocation"];
-  event [label="event"];
 
   disk_group -> disk_volume [arrowhead=crow];
-  disk_allocation -> event [arrowhead=none];
-  event -> disk_group [arrowhead=none];
   disk_volume -> disk_allocation [arrowhead=crow];
 
   {rank=same; "disk_volume"; "disk_allocation"; "disk_group"; }
