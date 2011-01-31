@@ -31,6 +31,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 1728 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6013"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6033"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -39,11 +53,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24797453"
+     inkscape:zoom="0.24797454"
      inkscape:cx="1730.15"
-     inkscape:cy="1728.0023"
+     inkscape:cy="1728"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1125"
@@ -68,7 +82,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(433.00717,495.63787)">
+     transform="translate(433.00717,495.63787)"
+     sodipodi:insensitive="true">
     <g
        id="g3412"
        transform="translate(-431.00717,-495.63787)">
@@ -939,7 +954,46 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="stuff"
-     sodipodi:insensitive="true"
-     style="display:none"
-     transform="translate(433.00717,495.63787)" />
+     style="display:inline"
+     transform="translate(433.00717,495.63787)">
+    <flowRoot
+       transform="translate(1256.173,-991.19264)"
+       xml:space="preserve"
+       id="flowRoot2885-2"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"><flowRegion
+         id="flowRegion2887-0"><rect
+           id="rect2889-7"
+           width="884.54297"
+           height="257.5715"
+           x="857.61493"
+           y="533.32092"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS" /></flowRegion><flowPara
+         style="font-size:36px;font-weight:bold;-inkscape-font-specification:AlArabiya Bold"
+         id="flowPara20124">Todd Hepler, William Schroeder, Scott Abbott,</flowPara><flowPara
+         style="font-size:36px;font-weight:bold;-inkscape-font-specification:AlArabiya Bold"
+         id="flowPara20132">Michael Kiwala, Indraniel Das, Craig S. Pohl,</flowPara><flowPara
+         id="flowPara2920"
+         style="font-size:36px;font-weight:bold;-inkscape-font-specification:AlArabiya Bold">David J. Dooling, Elaine R. Mardis,</flowPara><flowPara
+         style="font-size:36px;font-weight:bold;-inkscape-font-specification:AlArabiya Bold"
+         id="flowPara20140">and Richard K. Wilson</flowPara><flowPara
+         id="flowPara2905"
+         style="font-size:28px;font-style:italic;-inkscape-font-specification:AlArabiya Italic">The Genome Center at Washington University</flowPara><flowPara
+         style="font-size:28px;font-style:italic;-inkscape-font-specification:AlArabiya Italic"
+         id="flowPara3660">in St. Louis School of Medicine</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="matrix(1.25,0,0,-1.25,-479.61399,3778.4769)"
+       id="g28">
+      <text
+         transform="matrix(1,0,0,-1,97.1,3258)"
+         id="text30"
+         style="font-size:144px">
+        <tspan
+           style="font-size:96px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#4d4d3c;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:TrebuchetMS-Bold"
+           x="0"
+           y="0"
+           sodipodi:role="line"
+           id="tspan32">Large-Scale Illumina Sequencing and Analysis</tspan>
+      </text>
+    </g>
+  </g>
 </svg>
