@@ -7,17 +7,14 @@ digraph {
   flowcell [label="flowcell"];
   analysis [label="analysis"];
   lane     [label="lane"];
-  basecall [label="basecall"];
   index    [label="index"];
   read     [label="read"];
 
 
   flowcell -> analysis [arrowhead=none];
   analysis -> lane [arrowhead=crow, label="1..8"];
-  lane     -> basecall [arrowhead=crow];
   lane     -> index [arrowhead=crow];
   lane     -> library [arrowhead=none, arrowtail=crow];
-  basecall -> index [arrowhead=none];
   index    -> read  [arrowhead=crow, label="1..1,2"];
   index    -> library [arrowhead=crow, arrowtail=crow];
   library  -> sample  [arrowhead=none, arrowtail=crow];

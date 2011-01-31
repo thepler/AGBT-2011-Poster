@@ -13,14 +13,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="380pt"
-   height="192pt"
-   viewBox="0.00 0.00 380.00 192.00"
-   id="svg8227"
+   height="118pt"
+   viewBox="0.00 0.00 380.00 118.00"
+   id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="illumina-schema.svg">
   <metadata
-     id="metadata8359">
+     id="metadata115">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -31,7 +31,15 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8357" />
+     id="defs113">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 73.75 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="475 : 73.75 : 1"
+       inkscape:persp3d-origin="237.5 : 49.166667 : 1"
+       id="perspective117" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,315 +49,267 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1276"
-     inkscape:window-height="756"
-     id="namedview8355"
+     inkscape:window-width="1920"
+     inkscape:window-height="1125"
+     id="namedview111"
      showgrid="false"
-     inkscape:zoom="0.79254885"
+     inkscape:zoom="3.8210526"
      inkscape:cx="237.5"
-     inkscape:cy="120"
+     inkscape:cy="73.75"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="edge10" />
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="edge12" />
   <g
      id="graph0"
      class="graph"
-     transform="scale(1 1) rotate(0) translate(4 188)">
+     transform="scale(1 1) rotate(0) translate(4 114)">
     <title
-       id="title8230">_anonymous_0</title>
+       id="title5">_anonymous_0</title>
     <polygon
        style="fill:white;stroke:white;"
-       points="-4,4 -4,-188 376,-188 376,4 -4,4"
-       id="polygon8232" />
+       points="-4,4 -4,-114 376,-114 376,4 -4,4"
+       id="polygon7" />
     <!-- library -->
     <g
        id="node1"
        class="node">
       <title
-         id="title8235">library</title>
+         id="title10">library</title>
       <polygon
          style="fill:white;stroke:black;"
-         points="157,-148 157,-184 217,-184 217,-148 157,-148"
-         id="polygon8237" />
+         points="157,-74 157,-110 217,-110 217,-74 157,-74"
+         id="polygon12" />
       <text
          text-anchor="middle"
          x="187"
-         y="-167.4"
+         y="-93.4"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8239">library</text>
+         id="text14">library</text>
     </g>
     <!-- sample -->
     <g
        id="node2"
        class="node">
       <title
-         id="title8242">sample</title>
+         id="title17">sample</title>
       <polygon
          style="fill:white;stroke:black;"
-         points="253,-148 253,-184 317,-184 317,-148 253,-148"
-         id="polygon8244" />
+         points="253,-74 253,-110 317,-110 317,-74 253,-74"
+         id="polygon19" />
       <text
          text-anchor="middle"
          x="285"
-         y="-167.4"
+         y="-93.4"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8246">sample</text>
+         id="text21">sample</text>
     </g>
     <!-- library&#45;&gt;sample -->
     <g
-       id="edge18"
+       id="edge14"
        class="edge">
       <title
-         id="title8249">library-&gt;sample</title>
+         id="title24">library-&gt;sample</title>
       <path
          style="fill:none;stroke:black;"
-         d="M227,-166C236,-166 244,-166 253,-166"
-         id="path8251" />
+         d="M227,-92C236,-92 244,-92 253,-92"
+         id="path26" />
       <polygon
          style="fill:black;stroke:black;"
-         points="227,-166 217,-161.5 222,-166 217,-166 217,-166 217,-166 222,-166 217,-170.5 227,-166 227,-166"
-         id="polygon8253" />
+         points="227,-92.0001 217,-87.5 222,-92 217,-92 217,-92 217,-92 222,-92 217,-96.5 227,-92.0001 227,-92.0001"
+         id="polygon28" />
     </g>
     <!-- flowcell -->
     <g
        id="node3"
        class="node">
       <title
-         id="title8256">flowcell</title>
+         id="title31">flowcell</title>
       <polygon
          style="fill:white;stroke:black;"
-         points="1,-148 1,-184 70,-184 70,-148 1,-148"
-         id="polygon8258" />
+         points="1,-74 1,-110 70,-110 70,-74 1,-74"
+         id="polygon33" />
       <text
          text-anchor="middle"
          x="35"
-         y="-167.4"
+         y="-93.4"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8260">flowcell</text>
+         id="text35">flowcell</text>
     </g>
     <!-- analysis -->
     <g
        id="node4"
        class="node">
       <title
-         id="title8263">analysis</title>
+         id="title38">analysis</title>
       <polygon
          style="fill:white;stroke:black;"
-         points="0,-74 0,-110 71,-110 71,-74 0,-74"
-         id="polygon8265" />
+         points="0,-0 0,-36 71,-36 71,-0 0,-0"
+         id="polygon40" />
       <text
          text-anchor="middle"
          x="35"
-         y="-93.4"
+         y="-19.4"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8267">analysis</text>
+         id="text42">analysis</text>
     </g>
     <!-- flowcell&#45;&gt;analysis -->
     <g
        id="edge2"
        class="edge">
       <title
-         id="title8270">flowcell-&gt;analysis</title>
+         id="title45">flowcell-&gt;analysis</title>
       <path
          style="fill:none;stroke:black;"
-         d="M35,-148C35,-136 35,-122 35,-110"
-         id="path8272" />
+         d="M35,-74C35,-62 35,-48 35,-36"
+         id="path47" />
     </g>
     <!-- lane -->
     <g
        id="node5"
        class="node">
       <title
-         id="title8275">lane</title>
+         id="title50">lane</title>
       <polygon
          style="fill:white;stroke:black;"
-         points="115,-74 115,-110 169,-110 169,-74 115,-74"
-         id="polygon8277" />
+         points="115,-0 115,-36 169,-36 169,-0 115,-0"
+         id="polygon52" />
       <text
          text-anchor="middle"
          x="142"
-         y="-93.4"
+         y="-19.4"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8279">lane</text>
+         id="text54">lane</text>
     </g>
     <!-- analysis&#45;&gt;lane -->
     <g
        id="edge4"
        class="edge">
       <title
-         id="title8282">analysis-&gt;lane</title>
+         id="title57">analysis-&gt;lane</title>
       <path
          style="fill:none;stroke:black;"
-         d="M71,-92C82,-92 94,-92 105,-92"
-         id="path8284" />
+         d="M71,-18C82,-18 94,-18 105,-18"
+         id="path59" />
       <polygon
          style="fill:black;stroke:black;"
-         points="105,-92.0001 115,-96.5 110,-92 115,-92 115,-92 115,-92 110,-92 115,-87.5 105,-92.0001 105,-92.0001"
-         id="polygon8286" />
+         points="105,-18.0001 115,-22.5 110,-18 115,-18 115,-18 115,-18 110,-18 115,-13.5 105,-18.0001 105,-18.0001"
+         id="polygon61" />
       <text
          text-anchor="middle"
-         x="92"
-         y="-95.9"
+         x="93"
+         y="-21.9"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8288">1..8</text>
+         id="text63">1..8</text>
     </g>
     <!-- lane&#45;&gt;library -->
-    <g
-       id="edge10"
-       class="edge">
-      <title
-         id="title8291">lane-&gt;library</title>
-      <path
-         style="fill:none;stroke:#000000"
-         d="M 154.30471,-120.97962 C 160.30471,-129.97962 171,-139 176,-148"
-         id="path8293"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <polygon
-         style="fill:#000000;stroke:#000000"
-         points="156.934,-107.815 155.428,-114.371 153,-110 153,-110 153,-110 155.428,-114.371 149.066,-112.185 157.856,-118.742 157.856,-118.742 157.856,-118.742 "
-         id="polygon8295"
-         transform="matrix(0.8629738,-0.50524867,0.50524867,0.8629738,78.261988,62.013844)" />
-    </g>
-    <!-- basecall -->
-    <g
-       id="node6"
-       class="node">
-      <title
-         id="title8298">basecall</title>
-      <polygon
-         style="fill:white;stroke:black;"
-         points="159,-0 159,-36 229,-36 229,-0 159,-0"
-         id="polygon8300" />
-      <text
-         text-anchor="middle"
-         x="194"
-         y="-19.4"
-         style="font-family:Times New Roman;font-size:14.00;"
-         id="text8302">basecall</text>
-    </g>
-    <!-- lane&#45;&gt;basecall -->
-    <g
-       id="edge6"
-       class="edge">
-      <title
-         id="title8305">lane-&gt;basecall</title>
-      <path
-         style="fill:none;stroke:#000000"
-         d="m 155,-74 c 6,9 17.73281,17.293713 23.73281,27.293713"
-         id="path8307"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <polygon
-         style="fill:#000000;stroke:#000000"
-         points="181,-36 181,-36 181,-36 178,-40 177.4,-33.3 175,-44 175,-44 175,-44 184.6,-38.7 178,-40 "
-         id="polygon8309"
-         transform="matrix(0.81488371,0.55290921,-0.58057464,0.8332415,10.59197,-106.23157)" />
-    </g>
-    <!-- index -->
-    <g
-       id="node7"
-       class="node">
-      <title
-         id="title8312">index</title>
-      <polygon
-         style="fill:white;stroke:black;"
-         points="205,-74 205,-110 259,-110 259,-74 205,-74"
-         id="polygon8314" />
-      <text
-         text-anchor="middle"
-         x="232"
-         y="-93.4"
-         style="font-family:Times New Roman;font-size:14.00;"
-         id="text8316">index</text>
-    </g>
-    <!-- lane&#45;&gt;index -->
     <g
        id="edge8"
        class="edge">
       <title
-         id="title8319">lane-&gt;index</title>
+         id="title66">lane-&gt;library</title>
       <path
          style="fill:none;stroke:black;"
-         d="M169,-92C178,-92 186,-92 195,-92"
-         id="path8321" />
+         d="M 154.8595,-46.465565 C 160.8595,-55.465565 171,-65 176,-74"
+         id="path68"
+         sodipodi:nodetypes="cc" />
+      <polygon
+         style="fill:#000000;stroke:#000000"
+         points="156.934,-33.8146 155.428,-40.3708 153,-36 153,-36 153,-36 155.428,-40.3708 149.066,-38.1854 157.856,-44.7416 157.856,-44.7416 157.856,-44.7416 "
+         id="polygon70"
+         transform="matrix(0.89535683,-0.44534946,0.44534946,0.89535683,33.551126,64.233589)" />
+    </g>
+    <!-- index -->
+    <g
+       id="node6"
+       class="node">
+      <title
+         id="title73">index</title>
+      <polygon
+         style="fill:white;stroke:black;"
+         points="205,-0 205,-36 259,-36 259,-0 205,-0"
+         id="polygon75" />
+      <text
+         text-anchor="middle"
+         x="232"
+         y="-19.4"
+         style="font-family:Times New Roman;font-size:14.00;"
+         id="text77">index</text>
+    </g>
+    <!-- lane&#45;&gt;index -->
+    <g
+       id="edge6"
+       class="edge">
+      <title
+         id="title80">lane-&gt;index</title>
+      <path
+         style="fill:none;stroke:black;"
+         d="M169,-18C178,-18 186,-18 195,-18"
+         id="path82" />
       <polygon
          style="fill:black;stroke:black;"
-         points="195,-92.0001 205,-96.5 200,-92 205,-92 205,-92 205,-92 200,-92 205,-87.5 195,-92.0001 195,-92.0001"
-         id="polygon8323" />
+         points="195,-18.0001 205,-22.5 200,-18 205,-18 205,-18 205,-18 200,-18 205,-13.5 195,-18.0001 195,-18.0001"
+         id="polygon84" />
     </g>
-    <!-- basecall&#45;&gt;index -->
+    <!-- index&#45;&gt;library -->
     <g
        id="edge12"
        class="edge">
       <title
-         id="title8326">basecall-&gt;index</title>
+         id="title87">index-&gt;library</title>
       <path
          style="fill:none;stroke:black;"
-         d="M203,-36C209,-48 217,-62 223,-74"
-         id="path8328" />
-    </g>
-    <!-- index&#45;&gt;library -->
-    <g
-       id="edge16"
-       class="edge">
-      <title
-         id="title8331">index-&gt;library</title>
-      <path
-         style="fill:none;stroke:#000000"
-         d="m 218.77147,-120.84765 c -4,-7 -15.07084,-10.04075 -19.07084,-16.04075"
-         id="path8333"
-         inkscape:connector-curvature="0"
+         d="m 219.1405,-46.465565 c -4,-7 -15.38568,-11.278237 -19.38568,-17.278237"
+         id="path89"
          sodipodi:nodetypes="cc" />
       <polygon
          style="fill:#000000;stroke:#000000"
-         points="224.934,-112.185 218.572,-114.371 221,-110 221,-110 221,-110 218.572,-114.371 217.066,-107.815 216.144,-118.742 216.144,-118.742 216.144,-118.742 "
-         id="polygon8335"
-         transform="matrix(0.90605122,0.42316804,-0.42316804,0.90605122,-27.21647,-103.96743)" />
+         points="224.934,-38.1854 218.572,-40.3708 221,-36 221,-36 221,-36 218.572,-40.3708 217.066,-33.8146 216.144,-44.7416 216.144,-44.7416 216.144,-44.7416 "
+         id="polygon91"
+         transform="matrix(0.88764293,0.46053233,-0.46053233,0.88764293,6.6902804,-105.97851)" />
       <polygon
          style="fill:#000000;stroke:#000000"
-         points="194.066,-145.815 200.428,-143.629 198,-148 198,-148 198,-148 200.428,-143.629 201.934,-150.185 202.856,-139.258 202.856,-139.258 202.856,-139.258 "
-         id="polygon8337"
-         transform="matrix(0.87457544,0.48488947,-0.48488947,0.87457544,-45.282048,-114.38328)" />
+         points="194.066,-71.8146 200.428,-69.6292 198,-74 198,-74 198,-74 200.428,-69.6292 201.934,-76.1854 202.856,-65.2584 202.856,-65.2584 202.856,-65.2584 "
+         id="polygon93"
+         transform="matrix(0.88807616,0.45969635,-0.45969635,0.88807616,-10.298082,-99.147264)" />
     </g>
     <!-- read -->
     <g
-       id="node8"
+       id="node7"
        class="node">
       <title
-         id="title8340">read</title>
+         id="title96">read</title>
       <polygon
          style="fill:white;stroke:black;"
-         points="318,-74 318,-110 372,-110 372,-74 318,-74"
-         id="polygon8342" />
+         points="318,-0 318,-36 372,-36 372,-0 318,-0"
+         id="polygon98" />
       <text
          text-anchor="middle"
          x="345"
-         y="-93.4"
+         y="-19.4"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8344">read</text>
+         id="text100">read</text>
     </g>
     <!-- index&#45;&gt;read -->
     <g
-       id="edge14"
+       id="edge10"
        class="edge">
       <title
-         id="title8347">index-&gt;read</title>
+         id="title103">index-&gt;read</title>
       <path
          style="fill:none;stroke:black;"
-         d="M259,-92C274,-92 292,-92 308,-92"
-         id="path8349" />
+         d="M259,-18C274,-18 292,-18 308,-18"
+         id="path105" />
       <polygon
          style="fill:black;stroke:black;"
-         points="308,-92.0001 318,-96.5 313,-92 318,-92 318,-92 318,-92 313,-92 318,-87.5 308,-92.0001 308,-92.0001"
-         id="polygon8351" />
+         points="308,-18.0001 318,-22.5 313,-18 318,-18 318,-18 318,-18 313,-18 318,-13.5 308,-18.0001 308,-18.0001"
+         id="polygon107" />
       <text
          text-anchor="middle"
          x="289"
-         y="-95.9"
+         y="-21.9"
          style="font-family:Times New Roman;font-size:14.00;"
-         id="text8353">1..1,2</text>
+         id="text109">1..1,2</text>
     </g>
   </g>
 </svg>
