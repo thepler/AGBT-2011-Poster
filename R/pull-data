@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./mk-gb-vs-month-data-bi.sh ; ./mk-gb-vs-month-data.sh ; ./mk-gb-vs-month-gplot2-graph.r; ./mk-gb-vs-day-data.sh; ./mk-gb-vs-day-gplot2-graph.r
