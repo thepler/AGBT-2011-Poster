@@ -1,6 +1,6 @@
 #!/bin/sh
 
-perl -e 'print "day\tgb\n"' > gb-vs-day.txt
+perl -e 'print "Day\tGigabases\n"' > gb-vs-day.txt
 
 #    select x.mydate, sum( x.bases ), sum( x.bases ) / 1000000000 From (
 sqlrun "
