@@ -1,8 +1,5 @@
 #!/usr/bin/env Rscript
 
-cat(paste("Adding idas R library path", "\n"))
-.libPaths("/gscuser/idas/R/x86_64-pc-linux-gnu-library/2.10")
-
 cat(paste("Loading R Libraries", "\n"))
 library("grid")
 library("reshape")
@@ -37,7 +34,7 @@ cat(paste("Plotting", "\n"))
 #)
 
 # Scatter Plot (as Bars)
-ggplot(data, aes(Day, Gigabases)) + geom_bar(stat="identity") + opts(title="Illumina Data (passed filter) Completed Primary Analysis per Month")
+ggplot(data, aes(Day, Gigabases)) + geom_bar(stat="identity") + opts(title="MGI LIMS Illumina Data (passed filter) per Day")
 #ggplot(data, aes(as.character(month), gb)) + geom_bar() # Experiment DO NOT USE
 
 # Regular "R Plotting"
