@@ -1,0 +1,18 @@
+#!perl
+
+use strict; use warnings;
+use GSCApp; App->init;
+use Try::Tiny;
+
+my @a = qw(
+    flow_cell_id machine_manufacture_model platform start_date
+);
+print join("\t", map { $_ } @a);
+print "\n";
+my @r = GSC::Equipment::Solexa::Run->get(run_status => 'active');
+@r = sort { $a->er_id <=> $b->er_id } @r;
+for my $r (@r) {
+    print join("\t", map {  try {$r->$_} || '<unsure>' } @a);
+    print "\n";
+}
+
